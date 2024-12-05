@@ -1,20 +1,20 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "bat.Beyond.BatmanBeyond",
+  "name": "Batman Beyond",
+  "description": "Batman Beyond theme for Replugged Discord",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Astlantix",
+    "discordID": "892601297402998804",
+    "github": "Astlantix"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "Astlantix/Batman-Beyond-Replugged"
   },
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.css",
-  "source": "https://github.com/replugged-org/theme-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/Astlantix/Batman-Beyond-Replugged",
+  "image": ["https://images7.alphacoders.com/606/606572.png"]
 }
