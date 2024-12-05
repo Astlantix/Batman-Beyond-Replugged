@@ -1,0 +1,16 @@
+.theme-dark {
+    --background-primary: transparent !important;
+    animation: yes 11s ease infinite !important;
+    --background-secondary: transparent !important;
+    --background-tertiary: transparent !important;
+    --background-floating: #000000 !important;
+    --background-nested-floating: transparent !important;
+}
+
+.theme-dark body {
+    background: unset !important;
+    background-image: url(bb.jpg) !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
