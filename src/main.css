@@ -17,8 +17,7 @@
 
 .theme-dark body {
     background: unset !important;
-    background:image url(./bb.jpeg) !important;
+    background-image: url(./bb.jpeg) !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
-
 }
