@@ -1,16 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+:root, body {
+  --font-primary: "Roboto";
+  --font-display: "Roboto";
+  --font-headline: "Roboto";
+  
+  background: transparent;
+}
+
 .theme-dark {
     --background-primary: transparent !important;
-    animation: yes 11s ease infinite !important;
     --background-secondary: transparent !important;
     --background-tertiary: transparent !important;
     --background-floating: #000000 !important;
-    --background-nested-floating: transparent !important;
+    --background-nested-floating: #000000 !important;
 }
 
 .theme-dark body {
     background: unset !important;
-    background-image: url(bb.jpg) !important;
-    background-position: center !important;
+    background:image url(./bb.jpeg) !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
+
 }
