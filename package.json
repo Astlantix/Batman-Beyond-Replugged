@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "batman-beyond-replugged",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "Batman Beyond Replugged Theme",
   "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=9.0.0"
